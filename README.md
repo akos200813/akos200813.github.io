@@ -48,3 +48,15 @@ Enter valasztja el. Ez ey kovetkezo gondolat, bekezdes
 | 2. sor  | 2. sor |
 | 3. sor  | 3. sor |
 | 4. sor  | 4. sor |
+
+## Inline (szövegformázás)
+
+*dőlt*
+
+**félkövér**
+
+~~AltGr+1~~
+
+### Kódrészlet
+
+'''<h1>Példa</h1>'''
