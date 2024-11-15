@@ -1,0 +1,22 @@
+p.card-text{
+    font-size: x-large;
+}
+
+div.card {
+    width: 400px;
+    height: auto;
+    margin: 20px 10px 10px 20px;
+}
+
+img.palya {
+    margin: auto;
+    display: block;
+    height: 300px;
+    border: 20px double black;
+    margin-bottom: 60px;
+}
+
+p {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: large;
+}
