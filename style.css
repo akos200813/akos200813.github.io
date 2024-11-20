@@ -1,3 +1,13 @@
+h1 {
+    text-align: center;
+    margin: 30px 0 30px 0;
+}
+
+nav {
+    background-color: black;
+    margin-bottom: 30px;
+}
+
 p.card-text{
     font-size: x-large;
 }
@@ -19,4 +29,42 @@ img.palya {
 p {
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: large;
+    margin-left: 60px;
+}
+
+table {
+    margin-top: 60px;
+}
+
+#tablep {
+    color: whitesmoke;
+    text-align: center;
+}
+
+#navszin {
+    color: white;
+    font-size: x-large;
+    text-decoration: dotted;
+}
+
+h2, h3 {
+    margin: 30px 0 30px 30px;
+}
+
+li {
+    margin-left: 60px;
+}
+
+.card-body>p {
+    margin-left: 0;
+}
+
+#tablazatop>h2 {
+    text-align: center;
+}
+
+.fooldalimg {
+    display: block;
+    margin: auto;
+    width: 1000px;
 }
