@@ -1,3 +1,8 @@
+body {
+    background-image: url(r6_kepek/fooldal/hatter_jelolt_3.jpg);
+    background-size: cover;
+}
+
 h1 {
     text-align: center;
     margin: 30px 0 30px 0;
@@ -19,11 +24,12 @@ div.card {
 }
 
 img.palya {
-    margin: auto;
     display: block;
-    height: 300px;
-    border: 20px double black;
+    margin: auto;
+    height: 600px;
+    border: 10px double black;
     margin-bottom: 60px;
+    margin-top: 60px;
 }
 
 p {
@@ -67,4 +73,13 @@ li {
     display: block;
     margin: auto;
     width: 1000px;
+}
+
+#opkepek {
+    height: 300px;
+    width: 400px;
+    display: inline;
+    text-align: center;
+    border: solid 5px black;
+    margin: 5px 5px 5px 5px;
 }
