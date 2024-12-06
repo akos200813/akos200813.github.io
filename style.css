@@ -91,8 +91,7 @@ li {
     padding: 3px;
 }
 
-.row {
-    width: 1200px;
-    margin: auto;
-    margin-left: 100px;
+.operatorok_gallery {
+    text-align: center;
+    padding-left: 250px;
 }
