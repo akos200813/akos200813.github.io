@@ -15,10 +15,6 @@ nav {
     margin-bottom: 30px;
 }
 
-a:hover {
-    color: red;
-}
-
 p.card-text{
     font-size: x-large;
 }
@@ -57,7 +53,13 @@ table {
     color: white;
     font-size: x-large;
     text-decoration: dotted;
+    margin: 0px 20px;
 }
+
+#navszin:hover {
+    color: red;
+}
+
 
 h2, h3 {
     margin: 30px 0 30px 30px;
@@ -85,5 +87,12 @@ li {
     display: inline;
     text-align: center;
     border: solid 5px black;
-    margin: 5px 5px 5px 5px;
+    margin: 5px;
+    padding: 3px;
+}
+
+.row {
+    width: 1200px;
+    margin: auto;
+    margin-left: 100px;
 }
