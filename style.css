@@ -75,11 +75,10 @@ li {
     width: 1000px;
 }
 
-#opkepek {
+.opkepek {
     height: 300px;
     width: 400px;
-    display: inline;
-    text-align: center;
-    border: solid 5px black;
-    margin: 5px 5px 5px 5px;
+    display: block;
+    margin: auto;
+    border: solid 100px black;
 }
